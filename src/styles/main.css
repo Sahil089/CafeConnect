@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Condensed:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Trirong:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Trirong:wght@300&display=swap');
+.card1{
+    display: flex;
+    margin-top: 1%;
+    margin-bottom: 3%;
+
+}
+.card{
+    margin-left: 48px!important;
+}
+.col{
+    margin-top: 5%;
+}
+.row{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.txt1{
+    background-color:#0F172B ;
+    color:  #F1F8FF;
+}
+.color{
+background-color: #FEA116;
+border-color: #F1F8FF;
+font-family: 'Sofia Sans Condensed', sans-serif;
+color: #0F172B;
+margin: 2%;
+border-radius: 40px;
+}
+.color:hover{
+    background-color: #f6c67d;
+    color: #0F172B;
+    
+}
+.title{
+    font-family: 'Trirong', serif;
+    font-weight: 700;
+}
+.titletxt{
+    font-family: 'Trirong', serif;
+    font-weight: 300;
+}
+#con{
+    align-items: center;
+    justify-content: center;
+}
+.cards-container{
+    background-color:  #F1F8FF;
+}
